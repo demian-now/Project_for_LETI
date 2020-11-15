@@ -1,0 +1,2 @@
+C:\Users\fastf\source\repos\Бегущая строка\Debug\Бегущая строка.exe
+C:\Users\fastf\source\repos\Бегущая строка\Debug\Бегущая строка.pdb
